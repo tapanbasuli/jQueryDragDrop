@@ -1,0 +1,11 @@
+/* Styles go here */
+
+.box-container {
+	height: 200px;
+}
+
+.box-item {
+	width: 100%;
+	z-index: 1000;
+	margin-bottom: 2px;
+}
